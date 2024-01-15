@@ -30,6 +30,9 @@ o	Views are created for storing frequently used calculations and results, aiding
 •	Global Numbers: Provides total global cases, deaths, and death percentage.
 •	Vaccination Rates: Compares total populations to vaccinations, calculating percentages of vaccinated populations.
 •	COVID Spread: Explores relationships between cases, population density, and median age.
+
+![image](https://github.com/tmbuthia/Portfolio-project/assets/128447688/f7cab0d2-b042-4983-bb72-7d1caf0ea32d)
+
 ## Usage Instructions
 1.	Prerequisites:
 o	Access to a SQL environment (e.g., PostgreSQL, MySQL)
@@ -42,12 +45,9 @@ o	Use visualization tools to create charts and graphs based on query results.
 •	Time Series Analysis: Explore trends over time for various metrics.
 •	Correlation Analysis: Investigate relationships between different factors (e.g., vaccination rates and death rates).
 •	Predictive Modeling: Build models to forecast future trends or outcomes.
-## Contact Information
-•	Your Name (or organization)
-•	Email address
+
 ## Additional Information
-•	License: Specify any applicable license for the code.
-•	Contribution Guidelines: Outline how others can contribute to the project.
+
 •	Acknowledgments: Credit data sources and any external libraries used.
 
-![image](https://github.com/tmbuthia/Portfolio-project/assets/128447688/952111d8-385f-4657-8bdb-2f4b766e8615)
+
